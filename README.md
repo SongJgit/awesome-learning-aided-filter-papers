@@ -15,6 +15,8 @@ This repository offers a collection of recent learning-aided filter research pap
 | ------- | ------ | ------ |
 | [Split-KalmanNet: A Robust Model-Based Deep Learning Approach for State Estimation](https://ieeexplore.ieee.org/abstract/document/10120968) | [Code](https://github.com/geonchoi/Split-KalmanNet) |IEEE Transactions on Vehicular Technology 2023 |
 | [RTSNet: learning to smooth in partially known state-space models](https://ieeexplore.ieee.org/document/10322579/) | [Code](https://github.com/KalmanNet/RTSNet_TSP) |IEEE Transactions on Signal Processing 2023 |
+| [DANSE: Data-Driven Non-Linear State Estimation of Model-Free Process in Unsupervised Bayesian Setup](https://ieeexplore.ieee.org/document/10289946) | [Code](https://github.com/saikatchatt/danse-jrnl) |EUSIPCO 2023 |
+
 
 
 ## 2022
