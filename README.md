@@ -3,6 +3,7 @@
 
 This repository offers a collection of recent learning-aided filter research papers, including sensor fusion, target tracking and so on , with links to code and resources.
 
+Many algorithms have been implemented in a unified [filternet](https://github.com/SongJgit/filternet). 
 
 ## 2024
 | Method Name | Code | Source |
