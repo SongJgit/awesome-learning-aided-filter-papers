@@ -3,12 +3,20 @@
 
 This repository offers a collection of recent learning-aided filter research papers, including sensor fusion, target tracking and so on , with links to code and resources.
 
+## 2025
+| Method Name | Code | Source |
+| ------- | ------ | ------ |
+| [MAML-KalmanNet: A Neural Network-Assisted Kalman Filter Based on Model-Agnostic Meta-Learning](https://ieeexplore.ieee.org/document/10883047) | [Code](https://github.com/ShanLi-2000/MAML-KalmanNet) |IEEE Transactions on Signal Processing 2025 |
+
+
 
 ## 2024
 | Method Name | Code | Source |
 | ------- | ------ | ------ |
 | [DANSE: data-driven non-linear state estimation of model-free process in unsupervised learning setup](https://ieeexplore.ieee.org/document/10289946) | [Code](https://github.com/saikatchatt/danse-jrnl) |IEEE Transactions on Signal Processing 2024 |
 | [Practical Implementation of KalmanNet for Accurate  Data Fusion in Integrated Navigation](https://ieeexplore.ieee.org/document/10605082) | [Code](https://github.com/SongJgit/KalmanNet4SensorFusion) |IEEE Signal Processing Letters 2024 |
+| [Cholesky-KalmanNet: Model-Based Deep Learning With Positive Definite Error Covariance Structure](https://ieeexplore.ieee.org/document/10804573) | [Code]() |IEEE Signal Processing Letters 2024 |
+
 
 ## 2023
 | Method Name | Code | Source |
