@@ -2,12 +2,12 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
 
 This repository offers a collection of recent learning-aided filter research papers, including sensor fusion, target tracking and so on , with links to code and resources.
+Many algorithms have been implemented in a unified [filternet](https://github.com/SongJgit/filternet). 
 
 ## 2025
 | Method Name | Code | Source |
 | ------- | ------ | ------ |
 | [MAML-KalmanNet: A Neural Network-Assisted Kalman Filter Based on Model-Agnostic Meta-Learning](https://ieeexplore.ieee.org/document/10883047) | [Code](https://github.com/ShanLi-2000/MAML-KalmanNet) |IEEE Transactions on Signal Processing 2025 |
-
 
 
 ## 2024
