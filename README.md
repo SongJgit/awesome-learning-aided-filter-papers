@@ -8,15 +8,16 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | Method Name | Code | Source |
 | ------- | ------ | ------ |
 | [MAML-KalmanNet: A Neural Network-Assisted Kalman Filter Based on Model-Agnostic Meta-Learning](https://ieeexplore.ieee.org/document/10883047) | [Code](https://github.com/ShanLi-2000/MAML-KalmanNet) |IEEE Transactions on Signal Processing 2025 |
-
+| [KalmanFormer: using transformer to model the Kalman Gain in Kalman Filters](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1460255/full) | [None]() |Frontiers in Neurorobotics 2025 |
 
 ## 2024
 | Method Name | Code | Source |
 | ------- | ------ | ------ |
 | [DANSE: data-driven non-linear state estimation of model-free process in unsupervised learning setup](https://ieeexplore.ieee.org/document/10289946) | [Code](https://github.com/saikatchatt/danse-jrnl) |IEEE Transactions on Signal Processing 2024 |
 | [Practical Implementation of KalmanNet for Accurate  Data Fusion in Integrated Navigation](https://ieeexplore.ieee.org/document/10605082) | [Code](https://github.com/SongJgit/KalmanNet4SensorFusion) |IEEE Signal Processing Letters 2024 |
-| [Cholesky-KalmanNet: Model-Based Deep Learning With Positive Definite Error Covariance Structure](https://ieeexplore.ieee.org/document/10804573) | [Code]() |IEEE Signal Processing Letters 2024 |
-
+| [Cholesky-KalmanNet: Model-Based Deep Learning With Positive Definite Error Covariance Structure](https://ieeexplore.ieee.org/document/10804573) | [Code](https://github.com/RAMSIS-Lab/ckn-spl-public) |IEEE Signal Processing Letters 2024 |
+| [GSP-KalmanNet: Tracking Graph Signals via Neural-Aided Kalman Filtering](https://ieeexplore.ieee.org/document/10632588) | [Code](https://github.com/NimrodLeinwand/GSP-KalmanNet) |IEEE Transactions on Signal Processing 2024 |
+| [Adaptive Kalmannet: Data-Driven Kalman Filter with Fast Adaptation](https://ieeexplore.ieee.org/document/10447012) | [Code](https://github.com/KalmanNet/Adaptive-KNet-ICASSP24) |ICASSP 2024 |
 
 ## 2023
 | Method Name | Code | Source |
@@ -24,7 +25,8 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | [Split-KalmanNet: A Robust Model-Based Deep Learning Approach for State Estimation](https://ieeexplore.ieee.org/abstract/document/10120968) | [Code](https://github.com/geonchoi/Split-KalmanNet) |IEEE Transactions on Vehicular Technology 2023 |
 | [RTSNet: learning to smooth in partially known state-space models](https://ieeexplore.ieee.org/document/10322579/) | [Code](https://github.com/KalmanNet/RTSNet_TSP) |IEEE Transactions on Signal Processing 2023 |
 | [DANSE: Data-Driven Non-Linear State Estimation of Model-Free Process in Unsupervised Bayesian Setup](https://ieeexplore.ieee.org/document/10289946) | [Code](https://github.com/saikatchatt/danse-jrnl) |EUSIPCO 2023 |
-
+| [Latent-KalmanNet: Learned Kalman Filtering for Tracking From High-Dimensional Signals](https://ieeexplore.ieee.org/document/10372210) | [Code](https://github.com/KalmanNet/Latent_KalmanNet_TSP) |IEEE Transactions on Signal Processing 2023|
+| [RTSNet: Learning to Smooth in Partially Known State-Space Models](https://ieeexplore.ieee.org/document/10322579) | [Code](https://github.com/KalmanNet/RTSNet_TSP) |IEEE Transactions on Signal Processing 2023|
 
 
 ## 2022
