@@ -27,6 +27,7 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | [DANSE: Data-Driven Non-Linear State Estimation of Model-Free Process in Unsupervised Bayesian Setup](https://ieeexplore.ieee.org/document/10289946) | [Code](https://github.com/saikatchatt/danse-jrnl) |EUSIPCO 2023 |
 | [Latent-KalmanNet: Learned Kalman Filtering for Tracking From High-Dimensional Signals](https://ieeexplore.ieee.org/document/10372210) | [Code](https://github.com/KalmanNet/Latent_KalmanNet_TSP) |IEEE Transactions on Signal Processing 2023|
 | [RTSNet: Learning to Smooth in Partially Known State-Space Models](https://ieeexplore.ieee.org/document/10322579) | [Code](https://github.com/KalmanNet/RTSNet_TSP) |IEEE Transactions on Signal Processing 2023|
+| [ Dynamical Variational Autoencoders and KalmanNet: New Approaches to Robust HighPrecision Navigation](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1141/2023/isprs-archives-XLVIII-1-W2-2023-1141-2023.html) | [None]() |ISPRS 2023|
 
 
 ## 2022
