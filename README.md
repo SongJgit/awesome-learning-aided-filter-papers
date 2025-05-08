@@ -23,7 +23,7 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 ## 2024
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
-| [DANSE: data-driven non-linear state estimation of model-free process in unsupervised learning setup](https://ieeexplore.ieee.org/document/10289946) | [Code](https://github.com/saikatchatt/danse-jrnl) |IEEE Transactions on Signal Processing 2024 |
+| <a id="anchor4"></a>[DANSE: data-driven non-linear state estimation of model-free process in unsupervised learning setup](https://ieeexplore.ieee.org/document/10289946) | [Code](https://github.com/saikatchatt/danse-jrnl) |IEEE Transactions on Signal Processing 2024 |
 | [Practical Implementation of KalmanNet for Accurate  Data Fusion in Integrated Navigation](https://ieeexplore.ieee.org/document/10605082) | [Code](https://github.com/SongJgit/KalmanNet4SensorFusion) |IEEE Signal Processing Letters 2024 |
 | [Cholesky-KalmanNet: Model-Based Deep Learning With Positive Definite Error Covariance Structure](https://ieeexplore.ieee.org/document/10804573) | [Code](https://github.com/RAMSIS-Lab/ckn-spl-public) |IEEE Signal Processing Letters 2024 |
 | [GSP-KalmanNet: Tracking Graph Signals via Neural-Aided Kalman Filtering](https://ieeexplore.ieee.org/document/10632588) | [Code](https://github.com/NimrodLeinwand/GSP-KalmanNet) |IEEE Transactions on Signal Processing 2024 |
@@ -35,25 +35,24 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
 | [Split-KalmanNet: A Robust Model-Based Deep Learning Approach for State Estimation](https://ieeexplore.ieee.org/abstract/document/10120968) | [Code](https://github.com/geonchoi/Split-KalmanNet) |IEEE Transactions on Vehicular Technology 2023 |
-| [RTSNet: learning to smooth in partially known state-space models](https://ieeexplore.ieee.org/document/10322579/) | [Code](https://github.com/KalmanNet/RTSNet_TSP) |IEEE Transactions on Signal Processing 2023 |
-| [DANSE: Data-Driven Non-Linear State Estimation of Model-Free Process in Unsupervised Bayesian Setup](https://ieeexplore.ieee.org/document/10289946) | [Code](https://github.com/saikatchatt/danse-jrnl) |EUSIPCO 2023 |
+| [DANSE: Data-Driven Non-Linear State Estimation of Model-Free Process in Unsupervised Bayesian Setup](https://ieeexplore.ieee.org/document/10289946) | [Code](https://github.com/saikatchatt/danse-jrnl) |EUSIPCO 2023 (Conference version of the [paper](#anchor4).)|
 | [Latent-KalmanNet: Learned Kalman Filtering for Tracking From High-Dimensional Signals](https://ieeexplore.ieee.org/document/10372210) | [Code](https://github.com/KalmanNet/Latent_KalmanNet_TSP) |IEEE Transactions on Signal Processing 2023|
-| [RTSNet: Learning to Smooth in Partially Known State-Space Models](https://ieeexplore.ieee.org/document/10322579) | [Code](https://github.com/KalmanNet/RTSNet_TSP) |IEEE Transactions on Signal Processing 2023|
+|  <a id="anchor3"></a>[RTSNet: Learning to Smooth in Partially Known State-Space Models](https://ieeexplore.ieee.org/document/10322579) | [Code](https://github.com/KalmanNet/RTSNet_TSP) |IEEE Transactions on Signal Processing 2023|
 | [Dynamical Variational Autoencoders and KalmanNet: New Approaches to Robust HighPrecision Navigation](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1141/2023/isprs-archives-XLVIII-1-W2-2023-1141-2023.html) | [None]() |ISPRS 2023|
 
 
 ## 2022
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
-| [KalmanNet: Neural Network Aided Kalman Filtering for Partially Known Dynamics](https://ieeexplore.ieee.org/document/9733186) | [Code](https://github.com/KalmanNet/KalmanNet_TSP) | IEEE Transactions on Signal Processing 2022 |
+| <a id="anchor2"></a>[KalmanNet: Neural Network Aided Kalman Filtering for Partially Known Dynamics](https://ieeexplore.ieee.org/document/9733186) | [Code](https://github.com/KalmanNet/KalmanNet_TSP) | IEEE Transactions on Signal Processing 2022 |
 | [Unsupervised Learned Kalman Filtering](https://ieeexplore.ieee.org/document/9909801) | [Code](https://github.com/KalmanNet/Unsupervised_EUSIPCO_22) | EUSIPCO 2022 |
-| [RTSNet: Deep Learning Aided Kalman Smoothing](https://ieeexplore.ie.pubapi.xyz/document/9746487) | [Code](https://github.com/KalmanNet/RTSNet_TSP) |ICASSP 2022|
+| [RTSNet: Deep Learning Aided Kalman Smoothing](https://ieeexplore.ie.pubapi.xyz/document/9746487) | [Code](https://github.com/KalmanNet/RTSNet_TSP) |ICASSP 2022 (Conference version of the [paper](#anchor3).)|
 
 ## 2021
 
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
-| [Kalmannet: Data-Driven Kalman Filtering](https://ieeexplore.ieee.org/document/9413750) | [Code](https://github.com/KalmanNet/KalmanNet_TSP) | ICASSP 2021 |
+| [Kalmannet: Data-Driven Kalman Filtering](https://ieeexplore.ieee.org/document/9413750) | [Code](https://github.com/KalmanNet/KalmanNet_TSP) | ICASSP 2021 (Conference version of the [paper](#anchor2).) |
 | [DynaNet: neural kalman dynamical model for motion estimation and prediction](https://ieeexplore.ieee.org/document/9547669/) | [None]() |IEEE Transactions on Neural Networks and Learning Systems 2021 |
 
 ## 2020
@@ -66,7 +65,7 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
-| [Structured inference networks for nonlinear state space models](https://aaai.org/papers/10779-aaai-31-2017/) | [Code](https://github.com/yjlolo/pytorch-deep-markov-model) | AAAI 2017 |
+| <a id="anchor1"></a> [Structured inference networks for nonlinear state space models](https://aaai.org/papers/10779-aaai-31-2017/) | [Code](https://github.com/yjlolo/pytorch-deep-markov-model) | AAAI 2017|
 
 ## 2016
 
@@ -75,6 +74,11 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | [Backprop KF: Learning Discriminative Deterministic State Estimators](https://dl.acm.org/doi/10.5555/3157382.3157587) | [None]() | NIPS 2016 |
 
 
+## 2015
+
+| Paper Name | Code | Source |
+| ------- | ------ | ------ |
+| [Deep kalman filters](http://arxiv.org/abs/1511.05121) | [Code](https://github.com/yjlolo/pytorch-deep-markov-model) | arXiv 2015 (Preprint version of the [paper](#anchor1).) |
 
 ## Star History
 
