@@ -21,7 +21,7 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | [GSP-KalmanNet: Tracking Graph Signals via Neural-Aided Kalman Filtering](https://ieeexplore.ieee.org/document/10632588) | [Code](https://github.com/NimrodLeinwand/GSP-KalmanNet) |IEEE Transactions on Signal Processing 2024 |
 | [Adaptive Kalmannet: Data-Driven Kalman Filter with Fast Adaptation](https://ieeexplore.ieee.org/document/10447012) | [Code](https://github.com/KalmanNet/Adaptive-KNet-ICASSP24) |ICASSP 2024 |
 | [Uncertainty Quantification in Deep Learning Based Kalman Filters](https://ieeexplore.ie.pubapi.xyz/document/10447987) | [Code](https://github.com/yonatandn/Uncertainty-Quantification-in-Model-Based-DL) |ICASSP 2024 |
-
+| [RobustStateNet: Robust ego vehicle state estimation for Autonomous Driving](https://linkinghub.elsevier.com/retrieve/pii/S0921889023002245) | [None]() |Robotics and Autonomous Systems 2024 |
 ## 2023
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
