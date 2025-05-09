@@ -11,7 +11,26 @@ This repository offers a collection of recent learning-aided filter research pap
 Task including sensor fusion, target tracking and so on , with links to code and resources.
 Many algorithms have been implemented in a unified [filternet](https://github.com/SongJgit/filternet). 
 
-## 2025
+
+## What's New?
+🚩 2025/5/9: **Add Some Survey Papers.**
+
+## Survey Papers
+
+### 2023
+| Paper Name | Code | Source |
+| ------- | ------ | ------ |
+| [Model-Based Deep Learning](https://ieeexplore.ieee.org/document/10056957) | [None]() |Proceedings of the IEEE 2023|
+| [State of art on state estimation: kalman filter driven by machine learning](https://linkinghub.elsevier.com/retrieve/pii/S1367578823000731) | [None]() |Annual Reviews in Control 2023|
+
+### 2022
+| Paper Name | Code | Source |
+| ------- | ------ | ------ |
+| [Model-Based Deep Learning: On the Intersection of Deep Learning and Optimization](https://ieeexplore.ieee.org/document/9934915) | [None]() |IEEE Access 2022|
+
+
+## Research Papers
+### 2025
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
 | [MAML-KalmanNet: A Neural Network-Assisted Kalman Filter Based on Model-Agnostic Meta-Learning](https://ieeexplore.ieee.org/document/10883047) | [Code](https://github.com/ShanLi-2000/MAML-KalmanNet) |IEEE Transactions on Signal Processing 2025 |
@@ -20,7 +39,7 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | [IFNet: Data-driven multisensor estimate fusion with unknown correlation in sensor measurement noises](https://linkinghub.elsevier.com/retrieve/pii/S1566253524005281) | [None]() | Information Fusion 2025 |
 | [State, parameters and hidden dynamics estimation with the deep kalman filter: regularization strategies](https://linkinghub.elsevier.com/retrieve/pii/S1877750325000468) | [None]() | Journal of Computational Science 2025 |
 
-## 2024
+### 2024
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
 | <a id="anchor4"></a>[DANSE: data-driven non-linear state estimation of model-free process in unsupervised learning setup](https://ieeexplore.ieee.org/document/10289946) | [Code](https://github.com/saikatchatt/danse-jrnl) |IEEE Transactions on Signal Processing 2024 |
@@ -31,7 +50,7 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | [Uncertainty Quantification in Deep Learning Based Kalman Filters](https://ieeexplore.ie.pubapi.xyz/document/10447987) | [Code](https://github.com/yonatandn/Uncertainty-Quantification-in-Model-Based-DL) |ICASSP 2024 |
 | [RobustStateNet: Robust ego vehicle state estimation for Autonomous Driving](https://linkinghub.elsevier.com/retrieve/pii/S0921889023002245) | [None]() |Robotics and Autonomous Systems 2024 |
 
-## 2023
+### 2023
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
 | [Split-KalmanNet: A Robust Model-Based Deep Learning Approach for State Estimation](https://ieeexplore.ieee.org/abstract/document/10120968) | [Code](https://github.com/geonchoi/Split-KalmanNet) |IEEE Transactions on Vehicular Technology 2023 |
@@ -41,40 +60,41 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | [Dynamical Variational Autoencoders and KalmanNet: New Approaches to Robust HighPrecision Navigation](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1141/2023/isprs-archives-XLVIII-1-W2-2023-1141-2023.html) | [None]() |ISPRS 2023|
 
 
-## 2022
+
+### 2022
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
 | <a id="anchor2"></a>[KalmanNet: Neural Network Aided Kalman Filtering for Partially Known Dynamics](https://ieeexplore.ieee.org/document/9733186) | [Code](https://github.com/KalmanNet/KalmanNet_TSP) | IEEE Transactions on Signal Processing 2022 |
 | [Unsupervised Learned Kalman Filtering](https://ieeexplore.ieee.org/document/9909801) | [Code](https://github.com/KalmanNet/Unsupervised_EUSIPCO_22) | EUSIPCO 2022 |
 | [RTSNet: Deep Learning Aided Kalman Smoothing](https://ieeexplore.ie.pubapi.xyz/document/9746487) | [Code](https://github.com/KalmanNet/RTSNet_TSP) |ICASSP 2022 (Conference version of the [paper](#anchor3).)|
 
-## 2021
+### 2021
 
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
 | [Kalmannet: Data-Driven Kalman Filtering](https://ieeexplore.ieee.org/document/9413750) | [Code](https://github.com/KalmanNet/KalmanNet_TSP) | ICASSP 2021 (Conference version of the [paper](#anchor2).) |
 | [DynaNet: neural kalman dynamical model for motion estimation and prediction](https://ieeexplore.ieee.org/document/9547669/) | [None]() |IEEE Transactions on Neural Networks and Learning Systems 2021 |
 
-## 2020
+### 2020
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
 | [AI-IMU Dead-Reckoning](https://ieeexplore.ieee.org/document/9035481/) | [Code](https://github.com/mbrossar/ai-imu-dr) | IEEE Transactions on Intelligent Vehicles 2020 |
 
 
-## 2017
+### 2017
 
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
 | <a id="anchor1"></a> [Structured inference networks for nonlinear state space models](https://aaai.org/papers/10779-aaai-31-2017/) | [Code](https://github.com/yjlolo/pytorch-deep-markov-model) | AAAI 2017|
 
-## 2016
+### 2016
 
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
 | [Backprop KF: Learning Discriminative Deterministic State Estimators](https://dl.acm.org/doi/10.5555/3157382.3157587) | [None]() | NIPS 2016 |
 
 
-## 2015
+### 2015
 
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
