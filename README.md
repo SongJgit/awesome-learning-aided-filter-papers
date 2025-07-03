@@ -13,9 +13,15 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 
 
 ## What's New?
+🚩 2025/7/3: **Add Some Survey Papers.**
 🚩 2025/5/9: **Add Some Survey Papers.**
 
 ## Survey Papers
+
+### 2025
+| Paper Name | Code | Source |
+| ------- | ------ | ------ |
+| [Artificial Intelligence-Aided Kalman Filters: AI-Augmented Designs for Kalman-Type Algorithms](https://ieeexplore.ieee.org/document/11016798) | [None]() |IEEE Signal Processing Magazine 2025|
 
 ### 2023
 | Paper Name | Code | Source |
@@ -38,6 +44,7 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | [Physics-informed data-driven autoregressive nonlinear filter](https://ieeexplore.ieee.org/document/10884033) | [Code](https://github.com/hanyuliubuaa/DAF/) | IEEE Signal Processing Letters 2025 |
 | [IFNet: Data-driven multisensor estimate fusion with unknown correlation in sensor measurement noises](https://linkinghub.elsevier.com/retrieve/pii/S1566253524005281) | [None]() | Information Fusion 2025 |
 | [State, parameters and hidden dynamics estimation with the deep kalman filter: regularization strategies](https://linkinghub.elsevier.com/retrieve/pii/S1877750325000468) | [None]() | Journal of Computational Science 2025 |
+| <a id="anchor5"></a>[Bayesian KalmanNet: Quantifying Uncertainty in Deep Learning Augmented Kalman Filter](https://ieeexplore.ieee.org/document/11048390) |  [Code](https://github.com/yonatandn/Uncertainty-Quantification-in-Model-Based-DL) | IEEE Transactions on Signal Processing 2025 |
 
 ### 2024
 | Paper Name | Code | Source |
@@ -47,7 +54,7 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | [Cholesky-KalmanNet: Model-Based Deep Learning With Positive Definite Error Covariance Structure](https://ieeexplore.ieee.org/document/10804573) | [Code](https://github.com/RAMSIS-Lab/ckn-spl-public) |IEEE Signal Processing Letters 2024 |
 | [GSP-KalmanNet: Tracking Graph Signals via Neural-Aided Kalman Filtering](https://ieeexplore.ieee.org/document/10632588) | [Code](https://github.com/NimrodLeinwand/GSP-KalmanNet) |IEEE Transactions on Signal Processing 2024 |
 | [Adaptive Kalmannet: Data-Driven Kalman Filter with Fast Adaptation](https://ieeexplore.ieee.org/document/10447012) | [Code](https://github.com/KalmanNet/Adaptive-KNet-ICASSP24) |ICASSP 2024 |
-| [Uncertainty Quantification in Deep Learning Based Kalman Filters](https://ieeexplore.ie.pubapi.xyz/document/10447987) | [Code](https://github.com/yonatandn/Uncertainty-Quantification-in-Model-Based-DL) |ICASSP 2024 |
+| [Uncertainty Quantification in Deep Learning Based Kalman Filters](https://ieeexplore.ie.pubapi.xyz/document/10447987) | [Code](https://github.com/yonatandn/Uncertainty-Quantification-in-Model-Based-DL) |ICASSP 2024 (Conference version of the [paper](#anchor5).)|
 | [RobustStateNet: Robust ego vehicle state estimation for Autonomous Driving](https://linkinghub.elsevier.com/retrieve/pii/S0921889023002245) | [None]() |Robotics and Autonomous Systems 2024 |
 
 ### 2023
