@@ -40,6 +40,8 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 ### 2025
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
+| [Recursive KalmanNet: Deep Learning-Augmented Kalman Filtering for State Estimation with Consistent Uncertainty Quantification](https://arxiv.org/abs/2506.11639) | [Code](https://github.com/ixblue/RecursiveKalmanNet) |EUSIPCO 2025 |
+| [Recursive KalmanNet: Analyse des capacités de généralisation d'un réseau de neurones récurrent guidé par un filtre de Kalman](https://arxiv.org/abs/2507.14144) | [Code](https://github.com/ixblue/RecursiveKalmanNet) |GRETSI 2025 |
 | [MAML-KalmanNet: A Neural Network-Assisted Kalman Filter Based on Model-Agnostic Meta-Learning](https://ieeexplore.ieee.org/document/10883047) | [Code](https://github.com/ShanLi-2000/MAML-KalmanNet) |IEEE Transactions on Signal Processing 2025 |
 | [KalmanFormer: using transformer to model the Kalman Gain in Kalman Filters](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1460255/full) | [None]() |Frontiers in Neurorobotics 2025 |
 | [Physics-informed data-driven autoregressive nonlinear filter](https://ieeexplore.ieee.org/document/10884033) | [Code](https://github.com/hanyuliubuaa/DAF/) | IEEE Signal Processing Letters 2025 |
