@@ -37,6 +37,11 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 
 
 ## Research Papers
+| Paper Name | Code | Source |
+| ------- | ------ | ------ |
+| [CNPE-KalmanNet: Learning-Aided Kalman Filter With Complex Number Position Encoding](https://ieeexplore.ieee.org/document/11434524) | [Code](https://github.com/SongJgit/filternet) |IEEE Signal Processing Letters 2026 |
+| [LAKALMANTracker: Robust Learning-Aided Kalman Filtering for Multi-Object Tracking](https://ieeexplore.ieee.org/document/11463682)) | [Code](https://github.com/SongJgit/filternet) |IEEE ICASSP 2026 |
+
 ### 2025
 | Paper Name | Code | Source |
 | ------- | ------ | ------ |
