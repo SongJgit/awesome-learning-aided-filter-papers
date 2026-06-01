@@ -44,8 +44,7 @@ Many algorithms have been implemented in a unified [filternet](https://github.co
 | [CNPE-KalmanNet: Learning-Aided Kalman Filter With Complex Number Position Encoding](https://ieeexplore.ieee.org/document/11434524) | [Code](https://github.com/SongJgit/filternet) |IEEE Signal Processing Letters 2026 |
 | [LAKALMANTracker: Robust Learning-Aided Kalman Filtering for Multi-Object Tracking](https://ieeexplore.ieee.org/document/11463682)) | [Code](https://github.com/SongJgit/filternet) |IEEE ICASSP 2026 |
 | [Motion Estimation for Multi-Object Tracking using KalmanNet with Semantic-Independent Encoding](https://ieeexplore.ieee.org/document/11463682)) | [Code](https://github.com/SongJgit/filternet) |Information Fusion 2026 |
-| [Ensemble of KalmanNets with innovation-based attention for robust target tracking
-Encoding](https://www.sciencedirect.com/science/article/pii/S1566253525008395)) | [Code]() |Information Fusion 2026 |
+| [Ensemble of KalmanNets with innovation-based attention for robust target tracking](https://www.sciencedirect.com/science/article/pii/S1566253525008395)) | [Code]() |Information Fusion 2026 |
 
 ### 2025
 | Paper Name | Code | Source |
